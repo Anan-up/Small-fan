@@ -1,5 +1,7 @@
 [简中](https://github.com/Anan-up/Small-fan/blob/main/README.md)·[文言](https://github.com/Anan-up/Small-fan/blob/main/README_Classical_Chinese.md)·[English](https://github.com/Anan-up/Small-fan/blob/main/README_English.md)
 
+#夏日小风扇
+
 这是一个**纯前端单文件的趣味网页**——「夏日清凉小风扇」，属于那种自嘲式的小玩具项目。你可以直接点开玩。
 
 ## 项目概览
