@@ -34,3 +34,7 @@ This is a **pure front-end, single-file fun webpage** — the "Summer Cooling Fa
 - Follows the system dark mode (black/white palette via CSS variables)
 - Respects `prefers-reduced-motion`: oscillation is automatically disabled for users who prefer reduced motion
 - Buttons have `focus-visible` focus styles and a skeuomorphic pressed-down effect; touch screens supported (tap highlight removed)
+
+## project screenshot
+
+![project-screenshot](fun_v0.1.png)
