@@ -1,3 +1,5 @@
+[简中](https://github.com/Anan-up/Small-fan/blob/main/README.md)·[文言](https://github.com/Anan-up/Small-fan/blob/main/README_Classical_Chinese.md)·[English](https://github.com/Anan-up/Small-fan/blob/main/README_English.md)
+
 # Summer Breeze Fan
 
 This is a **pure front-end, single-file fun webpage** — the "Summer Cooling Fan," a self-deprecating little toy project. Just open it and play.
