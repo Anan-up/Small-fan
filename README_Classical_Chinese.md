@@ -35,6 +35,6 @@
 - 敬 `prefers-reduced-motion`：用戶若啟「減弱動態效果」，則搖頭自止
 - 按鈕具 `focus-visible` 焦點之樣式、按下下沉之擬物效果，兼支持觸屏（去 tap 高亮）
 
-### 案影
+## 案影
 
 ![案影](fun_v0.1.png)
