@@ -1,3 +1,5 @@
+[简中](https://github.com/Anan-up/Small-fan/blob/main/README.md)·[文言](https://github.com/Anan-up/Small-fan/blob/main/README_Classical_Chinese.md)·[English](https://github.com/Anan-up/Small-fan/blob/main/README_English.md)
+
 # 夏日清風扇·記
 
 此乃**純前端單頁之小戲**也，名曰「夏日清涼小風扇」，蓋自嘲消閒之玩具耳。君但啟之，即可把玩。
