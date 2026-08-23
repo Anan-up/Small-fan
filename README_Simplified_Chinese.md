@@ -1,4 +1,4 @@
-[English](https://github.com/Anan-up/Small-fan/blob/main/README_English.md) | [简中](https://github.com/Anan-up/Small-fan/blob/main/README_Simplified_Chinese.md) | [文言](https://github.com/Anan-up/Small-fan/blob/main/README_Classical_Chinese.md)
+[English](https://github.com/Anan-up/Small-fan/blob/main/README.md) | [简中](https://github.com/Anan-up/Small-fan/blob/main/README_Simplified_Chinese.md) | [文言](https://github.com/Anan-up/Small-fan/blob/main/README_Classical_Chinese.md)
 
 # 夏日小风扇
 
