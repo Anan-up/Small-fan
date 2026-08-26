@@ -38,3 +38,7 @@ This is a **pure front-end, single-file fun webpage** — the "Summer Cooling Fa
 ## project screenshot
 
 ![project-screenshot](fun_v0.1.png)
+
+## License
+
+[MIT](LICENSE)
